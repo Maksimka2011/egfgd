@@ -1,0 +1,26 @@
+body{
+    background-color: yellowgreen;
+}
+div{
+position: relative;
+}
+h1{
+position: absolute;
+top:60px;
+left: 60px;
+color: #ffffff;
+
+}
+img{
+    width: 730px;
+    height: 450px;
+}
+.y{
+color: yellow
+}
+.b{
+    color:blue ;
+}
+p{
+    font-size: 19px;
+}
